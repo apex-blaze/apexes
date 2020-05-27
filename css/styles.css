@@ -1,0 +1,169 @@
+body {
+  margin: 0;
+  background-image: url('5977.jpg');
+
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: sans-serif;
+  min-height: 100%;
+}
+
+h1 {
+  font-family: 'Acme', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+p {
+  margin: 0;
+  position: relative;
+  left: 4px;
+  color: white;
+  font-family: 'Acme', sans-serif;
+  font-size: 1.4rem;
+  line-height: 2.4rem;
+  letter-spacing: 1.13px;
+}
+
+hr {
+  width: 95%;
+  margin-top: 40px;
+  border-top: 2px white;
+}
+
+.top {
+  display: inline-block;
+  top: 155px;
+  left: 2px;
+  margin: 0;
+}
+
+ul {
+  font-size: 1.4rem;
+  text-align: left;
+  margin-left: 6rem;
+  line-height: 2.1rem;
+  letter-spacing: 1.1px;
+}
+
+.p-logos {
+  height: 200px;
+  margin-right: 20px;
+}
+
+.des {
+  text-align: left;
+  font-style: italic;
+}
+
+.h2s {
+  font-family: "Acme", cursive;
+  letter-spacing: 1.2px;
+  text-align: left;
+}
+
+.sep {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 6%;
+}
+
+.mid {
+  color: white;
+  font-family: 'Acme', sans-serif;
+  position: absolute;
+  top: 10rem;
+  left: 18rem;
+  margin-right: 18rem;
+  text-align: center;
+  float: left;
+}
+
+.sponsor {
+  width: 40%;
+  position: absolute;
+  top: 0.925rem;
+  left: 12.5rem;
+}
+
+.sponsor-logo {
+  height: 30px;
+  display: inline-block;
+  margin: 0 30px;
+  opacity: 0.7;
+}
+
+.sponsor-logo:hover {
+  opacity: 1.5;
+}
+
+.rate {
+  width: 70%;
+  height: 21.875rem;
+  position: absolute;
+  left: 8.125rem;
+}
+
+.BUTTON_CQN {
+ margin-top: 1rem;
+  background: #DE6262;
+  background-image: -webkit-gradient(top, #DE6262, #FFB88C);
+  background-image: -webkit-linear-gradient(top, #DE6262, #FFB88C);
+  background-image: -moz-linear-gradient(top, #DE6262, #FFB88C);
+  background-image: -ms-linear-gradient(top, #DE6262, #FFB88C);
+  background-image: -o-linear-gradient(top, #DE6262, #FFB88C);
+  background-image: linear-gradient(to bottom, #DE6262, #FFB88C);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  font-size: 40px;
+  font-weight: 100;
+  padding: 14px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #DD5E89 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_CQN:hover {
+  border: solid #FFFFFF 1px;
+  background: #FFB88C;
+  background-image: -webkit-gradient(top, #FFB88C, #DE6262);
+  background-image: -webkit-linear-gradient(top, #FFB88C, #DE6262);
+  background-image: -moz-linear-gradient(top, #FFB88C, #DE6262);
+  background-image: -ms-linear-gradient(top, #FFB88C, #DE6262);
+  background-image: -o-linear-gradient(top, #FFB88C, #DE6262);
+  background-image: linear-gradient(to bottom, #FFB88C, #DE6262);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.foot{
+
+  text-align: center;
+    clear: both;
+    width: 100%;
+      position: relative;
+      top:159.375rem ;
+      height: 120px;
+      background-color:  #1b6ca8;
+
+}
+.ficon{
+  height: 2rem;
+  margin: 0 0.8rem;
+}
+.f{
+  font-size: small;
+  position: relative;
+  bottom: 5px;
+}
